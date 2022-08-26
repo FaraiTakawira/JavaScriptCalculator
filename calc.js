@@ -1,5 +1,6 @@
 //for immediate invokation Function Expression (llFE)...this 
 //helps our code to execute immediately after  its created.
+// This is my first calc.
 (function(){
    
     //
